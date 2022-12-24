@@ -1,0 +1,5 @@
+# hidden folders
+*.vs
+
+# folders
+/out
